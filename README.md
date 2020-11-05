@@ -7,5 +7,5 @@
 - Used LabelEncoder to encode the data 
 - Performed Feature Selection on the Data using 5 different Feature Selection models - LinearSVC,Lasso,Chi-2, Regressive Elimination - Logistic Regression and VarianceThreshold
 - For more accuracy, I considered combination of 2 features as new features so as to increase the accuracy of the feature selection and prediction
-- Used 4 ML models for prediction, did Hyper parameter tuning of the most accurate model to further increase accuracy
+- Used 4 ML models for prediction - Linear Regression, Random Forest classifier, Logistic Regression and XGBoost, did Hyper parameter tuning of the most accurate model to further increase accuracy
 
