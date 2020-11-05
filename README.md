@@ -1,4 +1,4 @@
-# HeartDisease - EDA,FE and ML
+# HeartDisease - EDA,FE and ML Prediction
 
 ## Project Description:
 - Used Heart Disease UCI dataset to analyse different parameters which often led to a Heart Attack
