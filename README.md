@@ -1,5 +1,7 @@
 # HeartDisease - EDA,FE and ML Prediction
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HimanshuKGP007/COV_Project/HEAD)
+
 ## Project Description:
 - Used Heart Disease UCI dataset to analyse different parameters which often led to a Heart Attack
 - Performed Univariate, Bivariate, Multivariate Analysis of different parameters; used EDA and Advanced EDA (Pandas Profiling, Autoviz, Pandas Describe) to graphically represent the data and deduce certain key observations from it
@@ -10,3 +12,5 @@
 - Used 4 ML models for prediction - Linear Regression, Random Forest classifier, Logistic Regression and XGBoost, did Hyperparameter tuning of the most accurate model to further increase accuracy
 
 Dataset here - https://www.kaggle.com/cherngs/heart-disease-cleveland-uci
+
+
