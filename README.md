@@ -1,6 +1,6 @@
 # HeartDisease - EDA,FE and ML Prediction
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HimanshuKGP007/COV_Project/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HimanshuKGP007/HeartDiseaseAnalysis/HEAD)
 
 ## Project Description:
 - Used Heart Disease UCI dataset to analyse different parameters which often led to a Heart Attack
